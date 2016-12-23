@@ -1,0 +1,19 @@
+@media screen and (max-width: 500px) {
+    .multiplataform{
+        margin-left:-33px !important;
+        font-size: 30px !important;
+    }
+    .line-red{
+        margin-left: -90px !important;
+    }
+    .border-line{
+        text-shadow: 0px 1px 2px black;
+    }
+    .tecnologias-title{
+        font-size: 50px !important;
+
+    }
+    .soft-deve{
+        padding-top: 30px;
+    }
+}
